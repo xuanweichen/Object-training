@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/bc5097ad441efa1889e17601b48545e4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/143d9c2e9a1b1142c9bda88f262bdd3d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/e54b739a1b33d0f26973fbedd9fa8880/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/90ab4a175c886374f678d79c210b6457/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2e5bd4d25e97cecc637acdf6bb1ea570/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/c40a583f49b2ad128f3f7f2b06ebfb79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4d3a66f17c4a25284097d9f3054f5d46/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a43d231b1eaa541067c02d8b620e8efd/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0cd48dd52b6272108e80d8320e2cb10e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/207d98ce9e4cf602a509eb7a69c9e4e3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ab6a43e34f7400d32f50109fc2cd7926/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94865f1833f07d007e8c498cb2f5882f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0b0f9e72428de54aa5dfdd7db86c3ea3/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/7f5924a9ff53291c1216af789e0126bd/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/bc5097ad441efa1889e17601b48545e4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/bc5097ad441efa1889e17601b48545e4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/143d9c2e9a1b1142c9bda88f262bdd3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/143d9c2e9a1b1142c9bda88f262bdd3d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/e54b739a1b33d0f26973fbedd9fa8880/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/e54b739a1b33d0f26973fbedd9fa8880/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/90ab4a175c886374f678d79c210b6457/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/90ab4a175c886374f678d79c210b6457/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2e5bd4d25e97cecc637acdf6bb1ea570/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2e5bd4d25e97cecc637acdf6bb1ea570/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4d3a66f17c4a25284097d9f3054f5d46/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4d3a66f17c4a25284097d9f3054f5d46/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a43d231b1eaa541067c02d8b620e8efd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a43d231b1eaa541067c02d8b620e8efd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0cd48dd52b6272108e80d8320e2cb10e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0cd48dd52b6272108e80d8320e2cb10e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/207d98ce9e4cf602a509eb7a69c9e4e3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/207d98ce9e4cf602a509eb7a69c9e4e3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ab6a43e34f7400d32f50109fc2cd7926/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ab6a43e34f7400d32f50109fc2cd7926/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94865f1833f07d007e8c498cb2f5882f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94865f1833f07d007e8c498cb2f5882f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0b0f9e72428de54aa5dfdd7db86c3ea3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0b0f9e72428de54aa5dfdd7db86c3ea3/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/7f5924a9ff53291c1216af789e0126bd/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/7f5924a9ff53291c1216af789e0126bd/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/bc5097ad441efa1889e17601b48545e4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/bc5097ad441efa1889e17601b48545e4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/143d9c2e9a1b1142c9bda88f262bdd3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/143d9c2e9a1b1142c9bda88f262bdd3d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/e54b739a1b33d0f26973fbedd9fa8880/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/e54b739a1b33d0f26973fbedd9fa8880/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/90ab4a175c886374f678d79c210b6457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/90ab4a175c886374f678d79c210b6457/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2e5bd4d25e97cecc637acdf6bb1ea570/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/2e5bd4d25e97cecc637acdf6bb1ea570/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/c40a583f49b2ad128f3f7f2b06ebfb79/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/c40a583f49b2ad128f3f7f2b06ebfb79/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4d3a66f17c4a25284097d9f3054f5d46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4d3a66f17c4a25284097d9f3054f5d46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a43d231b1eaa541067c02d8b620e8efd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a43d231b1eaa541067c02d8b620e8efd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0cd48dd52b6272108e80d8320e2cb10e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/0cd48dd52b6272108e80d8320e2cb10e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/207d98ce9e4cf602a509eb7a69c9e4e3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/207d98ce9e4cf602a509eb7a69c9e4e3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ab6a43e34f7400d32f50109fc2cd7926/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/ab6a43e34f7400d32f50109fc2cd7926/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94865f1833f07d007e8c498cb2f5882f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/94865f1833f07d007e8c498cb2f5882f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0b0f9e72428de54aa5dfdd7db86c3ea3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/0b0f9e72428de54aa5dfdd7db86c3ea3/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/7f5924a9ff53291c1216af789e0126bd/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/7f5924a9ff53291c1216af789e0126bd/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/xuanweichen/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/f8cb010442ef851e86ffb3d19503fa63/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuanweichen/Desktop/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
